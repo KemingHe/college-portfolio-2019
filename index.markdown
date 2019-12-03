@@ -23,7 +23,7 @@ layout: home
 
 # Learn to Build, Build to Help.
 
-![test](./assets/images/headshot2.png){: .image-left target="_blank" height="30%" width="30%"} Hello! My name is Keming He. I am a Computer Science and Engineering student at The Ohio State University, graduating in May, 2020. My most recent projects involve **machine learning**, **Android app dev**, and **game design**. 
+![test](./assets/images/headshot3.png){: .image-left target="_blank" height="30%" width="30%"} Hello! My name is Keming He. I am a Computer Science and Engineering student at The Ohio State University, graduating in May, 2020. My most recent projects involve **machine learning**, **Android app dev**, and **game design**. 
 
 I enjoy being proactive and working with talented people in dynamic environments. I speak **English** and **Mandarin Chinese**, with experience working in both Columbus, OH and Beijing, China. Learning is my passion, and my ultimate goal is to help people with my software and services, built from the latest technologies.
 
