@@ -24,5 +24,5 @@ In 20 years, I envision myself becoming a back-end senior developer in the field
 
 ### Reference
 
-Long, C. (2018, April 23). The Difference Between Jr, Mid-Level and Senior Software Developers. Retrieved December 3, 2019, from [https://medium.com/deliveredtechnologies/the-difference-between-jr-mid-level-and-senior-software-developers-9ae833534f41](https://medium.com/deliveredtechnologies/the-difference-between-jr-mid-level-and-senior-software-developers-9ae833534f41).
+Long, C. (2018, April 23). The Difference Between Jr, Mid-Level and Senior Software Developers. Retrieved  from [https://medium.com/deliveredtechnologies/the-difference-between-jr-mid-level-and-senior-software-developers-9ae833534f41](https://medium.com/deliveredtechnologies/the-difference-between-jr-mid-level-and-senior-software-developers-9ae833534f41).
 
