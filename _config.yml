@@ -48,6 +48,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Add gif rendering support
+# See: https://github.com/github/markup/issues/1215
+markdown: GFM
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -68,4 +72,3 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
-  markdown: GFM
