@@ -3,12 +3,12 @@ layout: post
 title:  "Advanced Energy Vehicle Project - Completed"
 date:   2019-04-30 12:00:00 -0400
 categories: projects
-youtubeDemoId: tiUvePCL3As
+<!-- youtubeDemoId: tiUvePCL3As -->
 ---
 
 <p align="center">
-	<!-- <iframe width=600px height=338px src="https://www.youtube.com/embed/tiUvePCL3As" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-	{% include youtubePlayer.html id=page.youtubeDemoId %}
+	<iframe width=600px height=338px src="https://www.youtube.com/embed/tiUvePCL3As" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<!-- {% include youtubePlayer.html id=page.youtubeDemoId %} -->
 	<br>
 	<br>
 	<a href="../../../../assets/pdfs/ENGR1182_TeamP_CriticalDesignReview.pdf">Click to download...test</a>
