@@ -50,7 +50,11 @@ plugins:
 
 # Add gif rendering support
 # See: https://github.com/github/markup/issues/1215
+# Commented out for local testing, uncomment when push to origin!!!
 markdown: GFM
+
+# Fixed youtube video embed issue
+# See: https://github.com/nathancy/jekyll-embed-video
 
 # Exclude from processing.
 # The following items will not be processed, by default.

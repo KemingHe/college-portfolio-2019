@@ -3,6 +3,7 @@ layout: post
 title:  "Game Design Projects - Oct. 2019 Update"
 date:   2019-10-01 12:00:00 -0400
 categories: projects
+youtubeTrailerId: lgawZYA6Ejo
 ---
 
 _This post showcases my **two** completed game design projects: the Save Brutus (hangman) game for ENGR 1181 course in Spring 2019 semester, as well as the Bird Advanture Game built in Autumn 2019 semeter._
@@ -14,10 +15,13 @@ ___
 ### Save Brutus! Game
 
 #### Game Trailer
+<!--
 <p align="center">
 	<iframe width=720px height=405px src="https://www.youtube.com/embed/lgawZYA6Ejo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<br><br>
 </p>
+-->
+{% include youtubePlayer.html id=page.youtubeTrailerId %}
 
 #### Overview
 
