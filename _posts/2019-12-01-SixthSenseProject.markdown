@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sixth Sense Project - Ongoing"
+title:  "Sixth Sense Project - Dec. 2019 Update"
 date:   2019-12-01 12:00:00 -0400
 categories: projects
 ---

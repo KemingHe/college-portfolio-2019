@@ -4,7 +4,7 @@ title: "Career Goals"
 permalink: /careergoals/
 ---
 
-_My goals in life are to harness the power of technology, and to help those in need._
+_My goals in life is to harness the power of technology and to help those in need._
 
 ### Background
 

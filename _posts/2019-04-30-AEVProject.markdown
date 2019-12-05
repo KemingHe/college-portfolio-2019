@@ -12,7 +12,7 @@ categories: projects
 	<a href="../../../../assets/pdfs/ENGR1182_TeamP_CriticalDesignReview.pdf">Click to download...test</a>
 	<br>
 	<br>
-	<iframe width=max-width height=1078px src="https://docs.google.com/document/d/e/2PACX-1vR95xasN7lN9j_vDa8gQf7ywlgS5nvypaq8e04PmPgRXH_vY9LdY2YT_3aTe-Ur_A/pub?embedded=true"></iframe>
+	<iframe width=720px height=1078px src="https://docs.google.com/document/d/e/2PACX-1vR95xasN7lN9j_vDa8gQf7ywlgS5nvypaq8e04PmPgRXH_vY9LdY2YT_3aTe-Ur_A/pub?embedded=true"></iframe>
 	<br>
 	<br>
 	<image src="../../../../assets/images/ENGR1182_TeamP_Final_Oral_Presentation(Updated)-1.png" height=auto width=auto></image>
