@@ -16,7 +16,7 @@ ___
 #### Game Trailer
 
 <p align="center">
-	<iframe width=720px height=405px src="https://www.youtube.com/embed/lgawZYA6Ejo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width=720px height=405px src="https://www.youtube.com/embed/lgawZYA6Ejo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"> </iframe>
 	<br><br>
 </p>
 
