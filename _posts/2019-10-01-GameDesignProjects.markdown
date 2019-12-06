@@ -45,7 +45,7 @@ He, K., Huff, K., Weltle, N., & Langley, T. (2018, November 5). Save Brutus! Pro
 ___
 &nbsp;
 
-### Bird Advanture Game <img src="../../../../assets/images/BirdJumping(1frame)clone.png" alt="Bird Jumping" height=24px width=24px>
+### Bird Advanture Game ![Bird Jumping](../../../../assets/images/BirdJumping-1frame-clone.png){: height=24px width=24px}
 
 <p align="center">
 	<img src="../../../../assets/images/GameScreenShot.png" alt="Game Scene" height="50%" width="50%">
@@ -58,7 +58,7 @@ The Bird Advanture Game is a single-stage platforming demo made **under 6 hours*
 <br><br>
 
 #### Behind-the-Scene
-The game uses open-source scripts and background textures from the [Unity Asset Store](https://assetstore.unity.com/). In addition, I designed, created, and implemented the Running, Jumping, Flying, and Idle animations of the main character <img src="../../../../assets/images/BirdJumping(1frame)clone.png" alt="Bird Jumping" height=16px width=16px>, using [Piskel](https://www.piskelapp.com/). You can catch a glimpse of my Unity Workspace in Figure 3 below.
+The game uses open-source scripts and background textures from the [Unity Asset Store](https://assetstore.unity.com/). In addition, I designed, created, and implemented the Running, Jumping, Flying, and Idle animations of the main character ![Bird Jumping](../../../../assets/images/BirdJumping-1frame-clone.png){: height=16px width=16px}, using [Piskel](https://www.piskelapp.com/). You can catch a glimpse of my Unity Workspace in Figure 3 below.
 
 <p align="center">
 	<br>
