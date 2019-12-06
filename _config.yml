@@ -53,11 +53,11 @@ plugins:
 # See: https://github.com/github/markup/issues/1215
 # Commented out for local testing, uncomment when push to origin.
 # markdown: GFM
-# Final: don't use, will break local host.
+# Final. don't use, will break local host.
 
 # Fixed youtube video embed issue
 # See: https://github.com/nathancy/jekyll-embed-video
-# Final: don't use, will break image embedding.
+# Final. don't use, will break image embedding.
 
 # Exclude from processing.
 # The following items will not be processed, by default.
