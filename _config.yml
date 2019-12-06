@@ -55,9 +55,17 @@ plugins:
 # markdown: GFM
 # Final. don't use, will break local host.
 
+# How to actually fix issue.
+# Embed normally, but never use md and html at the same time.
+
 # Fixed youtube video embed issue
 # See: https://github.com/nathancy/jekyll-embed-video
 # Final. don't use, will break image embedding.
+
+# How to actually fix issue.
+# Use screenshot as mock embed images, while link to youtube.
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
