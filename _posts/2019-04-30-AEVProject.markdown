@@ -17,9 +17,9 @@ In Spring 2019 semester, Team P and I researched and developed an Advanced Energ
 
 <p align="center">
 	<br>
-	<b><a href="https://u.osu.edu/engr1182sp19section9635grouprph/team-p-aev-documentation/"> (Visit Team P's Official Website for Full Project Documentation) </a></b>
+	<b><a href="../../../../assets/pdfs/ENGR1182_TeamP_CriticalDesignReview.pdf"> (Download the full PDF of our final design document - Critical Design Review) </a></b>
 	<br><br>
-	<a href="../../../../assets/pdfs/ENGR1182_TeamP_CriticalDesignReview.pdf"> (Download the PDF of our final design document -- Critical Design Review) </a>
+	<a href="https://u.osu.edu/engr1182sp19section9635grouprph/team-p-aev-documentation/"> (Visit Team P's Official Website for Full Project Documentation - Admins Only) </a>
 	<br><br>
 </p>
 
