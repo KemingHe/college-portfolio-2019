@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My CSE Toolkit Ep.1: Bounding w/ Integrals"
+title:  "My CS Toolkit Ep.1: Bounding w/ Integrals"
 date:   2020-01-14 12:00:00 -0400
 categories: projects
 ---
@@ -102,4 +102,4 @@ Now that you've understood how to use integrals to bound summations, you might a
 
 * **Integration by Substitution**: _Khan Academy_ has another great article (with practice problems) explaining the u-sub method of solving integrals: [https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-9/a/review-applying-u-substitution](https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-9/a/review-applying-u-substitution)
 
-And before we go, welcome to My CSE Toolkit! This is my latest blog series, focused on the important skills and tools in **Math** and **Computer Science**. Feel free to connect and comment via my email [he.1537@osu.edu](he.1537@osu.edu), and I'll see you in the next episode!
+And before we go, welcome to My CS Toolkit! This is my latest blog series, focused on the important skills and tools in **Math** and **Computer Science**. Feel free to connect and comment via my email [he.1537@osu.edu](he.1537@osu.edu), and I'll see you in the next episode!
