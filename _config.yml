@@ -36,6 +36,7 @@ url: "keminghe.github.io" # the base hostname & protocol for your site, e.g. htt
 #   social_sites:
 #     github: KemingHe
 github_username: KemingHe
+linkedin_username: keming-he-771281190
 
 header_pages:
   - 01-CareerGoals.markdown
