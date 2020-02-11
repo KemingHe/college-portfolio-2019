@@ -3,10 +3,13 @@ Important commands when using Ruby - Jekyll - Minima theme:
 * boundle show minima 
 	- print install location of minima to console
 	- useful for looking up default .html files to overwrite in _include
+	
 * boundle update
 	- update everything: Jekyll, Ruby, Minima, etc.
+
 * cd C:\Users\jianmhe654321\Documents\GitHub\KemingsPortfolio
 	- cd to where I store my Jekyll site locally
+
 * bundle exec jekyll serve --watch
 	- generate a static site based on files in current dir
 	- host in http://127.0.0.1:4000/ by default, can change location in _config.yml
